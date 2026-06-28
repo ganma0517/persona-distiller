@@ -1,0 +1,3 @@
+# Personal persona files — exclude from public repo
+*.PERSONA.md
+!EXAMPLE.PERSONA.md
