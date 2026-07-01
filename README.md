@@ -107,8 +107,8 @@ Maps to: analytical vs. intuitive thinking; high/low need for cognitive closure
 
 Maps to: Promotion Focus (opportunity-seeking) vs. Prevention Focus (loss-aversion) in Layer 3 heuristics
 
-#### Module C: Conflict & Collaboration Style → Layer 4
-*Adapted from Thomas-Kilmann Conflict Mode Instrument (TKI)*
+#### Module C: Conflict & Collaboration Style → Layer 3 + Layer 4
+*Adapted from Thomas-Kilmann Conflict Mode Instrument (TKI). Adaptation: situational choice format replaces the original forced-ranking design; only the highest-discriminating conflict mode items retained.*
 
 | Q | Question |
 |---|----------|
@@ -116,7 +116,7 @@ Maps to: Promotion Focus (opportunity-seeking) vs. Prevention Focus (loss-aversi
 | C2 | What is your most comfortable collaboration structure? |
 | C3 | What kind of person do you find most difficult to work with? |
 
-Maps to: defensive response style, collaboration limits, rejection criteria
+Maps to: C1/C2 → Layer 3 (conditional behavior heuristics under conflict); C3 → Layer 4 (hard limits on collaboration)
 
 #### Module D: Political-Moral Intuitions → Layer 4
 *Adapted from Moral Foundations Theory (Haidt et al. 2009)*
